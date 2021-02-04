@@ -67,4 +67,4 @@ Few ways to improve this project:
 * Orchestrating AutoML run more vividly to encapsulate all models rather than terminating based on time
 
 ## Project Demo
-Link of the screencast for this project: https://youtu.be/yk9BX95SCPg
+Link of the screencast for this project: https://youtu.be/3NyVAbX8S9Q
